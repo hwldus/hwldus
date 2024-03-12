@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwldus)](https://github.com/anuraghazra/github-readme-stats) <!--언어비율-->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwldus)](https://github.com/anuraghazra/github-readme-stats) <!--평판-->
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=bluejii_dev)](https://velog.io/@bluejii_dev) <!--내 벨로그 가장 최신 글-->
