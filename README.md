@@ -1,4 +1,5 @@
-### Hi there 👋
+### Welcome Blue💙
+<br>
 
 <!--
 **hwldus/hwldus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwldus)](https://github.com/anuraghazra/github-readme-stats) <!--평판-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwldus)](https://github.com/anuraghazra/github-readme-stats) <!--언어비율-->
+<br>
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwldus)](https://github.com/anuraghazra/github-readme-stats)--> <!--언어비율-->
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=bluejii_dev)](https://velog.io/@bluejii_dev) <!--내 벨로그 가장 최신 글-->
 <h3>📚 Tech Stack 📚</h3>
 <p align="left">
